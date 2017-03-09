@@ -1,0 +1,26 @@
+<!DOCTYPE css>
+<link href="https://fonts.googleapis.com/css?family=Raleway" 
+		rel="stylesheet">
+<style>
+	h1 {
+		font-family: 'Raleway', sans-serif;
+		color:black;
+	}
+	h2 {
+		font-family: 'Raleway', sans-serif;
+		color:steelblue;
+		font-weight: 700
+	}
+	h3 {
+		font-family: 'Raleway', sans-serif;
+		color: steelblue;
+		font-size: 125%;
+		font-weight: 700;
+
+	}
+	text {
+		font-family: 'Raleway', sans-serif;
+		color: black;
+		opacity: 0.85;
+		font-weight: 600;
+	}
